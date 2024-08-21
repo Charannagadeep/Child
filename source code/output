@@ -1,0 +1,38 @@
+Enter parent's name: Revathi
+
+Options:
+1. Register a Child
+2. View Vaccination Schedule
+3. Book Vaccination Appointment
+4. View Reminders
+5. Exit
+Enter choice: 1
+Enter child's name: Charan
+Enter child's birthdate (YYYY-MM-DD): 2003-12-05
+Child Charan added.
+
+Options:
+1. Register a Child
+2. View Vaccination Schedule
+3. Book Vaccination Appointment
+4. View Reminders
+5. Exit
+Enter choice: 2
+
+Vaccination schedule for Charan:
+BCG: Due on 2003-12-05
+Hepatitis B: Due on 2004-01-04
+Polio: Due on 2004-02-03
+DPT: Due on 2004-06-02
+Measles: Due on 2004-08-31
+
+Options:
+1. Register a Child
+2. View Vaccination Schedule
+3. Book Vaccination Appointment
+4. View Reminders
+5. Exit
+Enter choice: 5
+Exiting system.
+
+=== Code Execution Successful ===
